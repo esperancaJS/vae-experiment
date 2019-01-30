@@ -1,6 +1,6 @@
 # VAE Experiment
 
-Working Demo: [http://vae-experiment.s3-website.eu-west-2.amazonaws.com/]()
+[http://vae-experiment.s3-website.eu-west-2.amazonaws.com](Working Demo)
 
 ## Steps
 
