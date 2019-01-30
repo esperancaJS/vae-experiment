@@ -14,13 +14,7 @@ tensorflowjs_converter --input_format keras /Users/pedro/Documents/rants/basic-a
 
 note: replace `/Users/pedro/Documents/rants/basic-ae/vae/` with the location on this file on your machine
 
-### 3. Launch a local CDN to serve the `tensorflow.js` compatible model to the client
-
-```
-http-server --cors='*' model # from the root folder
-```
-
-### 4. Run the client
+### 3. Run the client
 
 In another terminal (to not kill the previous CDN local server)
 ```
