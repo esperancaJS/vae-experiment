@@ -18,7 +18,6 @@ note: replace `/Users/pedro/Documents/rants/basic-ae/vae/` with the location on 
 
 ### 3. Run the client
 
-In another terminal (to not kill the previous CDN local server)
 ```
 cd client # from the root folder
 npm i
