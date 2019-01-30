@@ -33,3 +33,19 @@ cd client # from the root folder
 npm i
 npm start
 ```
+
+## Resources that helped/motivated me
+
+[Building Autoencoders in Keras](https://blog.keras.io/building-autoencoders-in-keras.html)
+
+Tutorial initially easy to follow
+
+[Intuitively Understanding Variational Autoencoders](https://towardsdatascience.com/intuitively-understanding-variational-autoencoders-1bfe67eb5daf)
+
+Blog Post/ Tutorial that complemented the previous Tutorial
+
+[Computer Generates Human Faces](https://www.youtube.com/watch?v=4VAkrUNLKSo)
+
+The video that got me interested in **Latent Spaces**.
+
+Video + Undocumented code
